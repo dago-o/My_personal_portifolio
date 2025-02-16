@@ -2,7 +2,7 @@
 
 My personal portfolio website built with React to showcase my projects, skills, and contact information.
 
-🚀 **Live Demo:** [View Here](https://degefa-lemma-portifolio.netlify.app/)
+🚀 **Live Demo:** [View Here](https://degefa-lemma-personal-portifolio.netlify.app/)
 
 ## Features
 - About Me Section
